@@ -142,6 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 #experience {
 	background-color: #4c6d86;
 	padding: 6em 4em 5.6em;
+
 }
 
 #experience h2 {
@@ -265,7 +266,13 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+/* Custom  Design For block */
 
+#block-cta {
+	background-color: rgba(200, 99, 50, 0.91);
+	padding: 6em 4em 5.6em;
+	color: white;
+}
 
 
 
