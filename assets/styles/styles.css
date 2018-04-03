@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** thin bar ***/
 
 .thin-bar {
-		border-bottom: 5px solid #F33F12;
+		border-bottom: 5px solid #2980b9;
 }
 
 
@@ -259,34 +259,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-
-
-
-
-
-
-/* Custom  Design For block */
-
-#block-cta {
-	background-color: rgba(200, 99, 50, 0.91);
-	padding: 6em 4em 5.6em;
-	color: white;
-}
-
-
-
-
-
-
-
-
-
-
-
 /*** Footer Call-to-action ***/
 #footer-cta {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: rgba(52, 73, 94,0.91);
 	padding: 6em 4em 5.6em;
 }
 
